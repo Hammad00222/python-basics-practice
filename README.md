@@ -6,6 +6,7 @@ This folder includes scripts for beginner-level Python problems covering:
 - Loops and conditionals
 - Functions and simple logic
 - Basic Calculator
+- To-Do List
 
 ## Problems Covered
 
@@ -15,6 +16,7 @@ This folder includes scripts for beginner-level Python problems covering:
 4. Sum of even numbers from 1 to N
 5. Calculate and classify BMI
 6. Perform basic arithmetic operations
+7. Add and view tasks, Mark tasks as done, Delete tasks
 
 Run the script in any Python 3 environment.
 
