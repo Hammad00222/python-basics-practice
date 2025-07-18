@@ -1,10 +1,11 @@
 # Python Basics Practice
 
-This script includes beginner-level Python problems covering:
+This folder includes scripts for beginner-level Python problems covering:
 
 - Variables and input/output
 - Loops and conditionals
 - Functions and simple logic
+- Basic Calculator
 
 ## Problems Covered
 
@@ -13,8 +14,7 @@ This script includes beginner-level Python problems covering:
 3. Print multiplication table
 4. Sum of even numbers from 1 to N
 5. Calculate and classify BMI
-
-This script is part of my Python fundamentals practice for building a freelance-ready portfolio.
+6. Perform basic arithmetic operations
 
 Run the script in any Python 3 environment.
 
